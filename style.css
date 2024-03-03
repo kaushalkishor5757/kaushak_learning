@@ -1,0 +1,9 @@
+.first-heading {
+  color: red;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.first-paragraph {
+  font-size: 36px;
+  text-transform: capitalize;
+}
