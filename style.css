@@ -7,3 +7,13 @@
   font-size: 36px;
   text-transform: capitalize;
 }
+
+
+.first-page{
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.feature{
+  color: green;
+}
