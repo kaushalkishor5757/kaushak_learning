@@ -1,3 +1,7 @@
-.text{
-color: aquamarine;
+.text {
+  color: aquamarine;
+}
+
+html {
+  scroll-behavior: smooth;
 }
